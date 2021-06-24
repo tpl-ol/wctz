@@ -1,7 +1,9 @@
 # 中文版 web 编程入门教程
 (web-code-tutorial-zh, WCTZ)
 
-<TODO>
+<https://tpl-ol.github.io/wctz/>
+
+编译使用 [mdbook](https://rust-lang.github.io/mdBook/)
 
 
 ## LICENSE
